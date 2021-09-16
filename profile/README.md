@@ -3,7 +3,7 @@
 ## About FsLab
 FsLab is a center of gravity for data science projects written in and/or for F#. Our vision is to provide a safe haven for these projects to align their APIs, find new contributors and/or maintainers, and catalyze the formation of a coherent, productive data science environment for F# and .NET.
 
-![](cycle.png)
+![](./cycle.png)
 
 More information is available on https://fslab.org.
 
