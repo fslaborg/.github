@@ -1,5 +1,5 @@
-# Hi there! :wave: We are FsLab
 
+# Hi there! :wave: We are FsLab
 
 [![Discord](https://img.shields.io/discord/836161044501889064?color=purple&label=Join%20our%20Discord%21&logo=discord&logoColor=white)](https://discord.gg/6nju7mRQ9G)
 [![Twitter](https://img.shields.io/twitter/follow/fslaborg?style=social)](https://twitter.com/fslaborg)
@@ -7,7 +7,7 @@
 ## About FsLab
 FsLab is a center of gravity for data science projects written in and/or for F#. Our vision is to provide a safe haven for these projects to align their APIs, find new contributors and/or maintainers, and catalyze the formation of a coherent, productive data science environment for F# and .NET.
 
-![](./cycle.png)
+![Cycle](https://user-images.githubusercontent.com/21338071/133574089-aa5f4a73-f722-4cc2-be8a-d60a49e63a8d.png)
 
 More information is available on https://fslab.org.
 
