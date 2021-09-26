@@ -3,6 +3,7 @@
 
 [![Discord](https://img.shields.io/discord/836161044501889064?color=purple&label=Join%20our%20Discord%21&logo=discord&logoColor=white)](https://discord.gg/6nju7mRQ9G)
 [![Twitter](https://img.shields.io/twitter/follow/fslaborg?style=social)](https://twitter.com/fslaborg)
+![GH Stars stats](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=social&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/fslaborg)
 
 ## About FsLab
 FsLab is a center of gravity for data science projects written in and/or for F#. Our vision is to provide a safe haven for these projects to align their APIs, find new contributors and/or maintainers, and catalyze the formation of a coherent, productive data science environment for F# and .NET.
