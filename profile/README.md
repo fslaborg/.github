@@ -3,10 +3,15 @@
 
 [![Discord](https://img.shields.io/discord/836161044501889064?color=purple&label=Join%20our%20Discord%21&logo=discord&logoColor=white)](https://discord.gg/6nju7mRQ9G)
 [![Twitter](https://img.shields.io/twitter/follow/fslaborg?style=social)](https://twitter.com/fslaborg)
+[![OpenCollectiveCount](https://img.shields.io/opencollective/all/fslab)](https://opencollective.com/fslab)
 ![GH Stars stats](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=social&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/fslaborg)
 
 ## About FsLab
 FsLab is a center of gravity for data science projects written in and/or for F#. Our vision is to provide a safe haven for these projects to align their APIs, find new contributors and/or maintainers, and catalyze the formation of a coherent, productive data science environment for F# and .NET.
+
+You can support FsLab library development on [Open Collective](https://opencollective.com/fslab).
+
+[![Open Collective](https://opencollective.com/fslab/donate/button.png?color=blue)](https://opencollective.com/fslab)
 
 ![Cycle](https://user-images.githubusercontent.com/21338071/133574089-aa5f4a73-f722-4cc2-be8a-d60a49e63a8d.png)
 
